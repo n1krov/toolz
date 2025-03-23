@@ -8,6 +8,7 @@ Puedes ejecutar el script directamente con el comando `bash script.sh`. O ejecut
 ```bash
 bash setup.sh
 ```
+> ojo que el script `setup.sh` pedira permisos de superusuario para mover los scripts a tu directorio de binarios.
 
 Tambien puedes mover los scripts a tu directorio de binarios para poder ejecutarlos desde cualquier lugar.
 
